@@ -13,4 +13,5 @@ create .env file
 Set the following for testing puposes
 
 GIT_URL = "https://api.github.com/"
+
 AUTH_TOKEN = "token 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"
